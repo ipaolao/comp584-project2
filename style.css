@@ -38,11 +38,6 @@ div img {
 	flex-flow: row wrap;
 }
 
-/* Row 6 spacing */
-.row-6 {
-  padding-right: 4%;
-}
-
 /* attribute selector to give some margin between columns and apply styles to flex items */
 
 [class*="col-"] {
@@ -131,6 +126,11 @@ div img {
     flex: 0 0 44%;
     order: 0;
   }
+
+ /* Row 6 spacing */
+ .row-6 {
+   padding-right: 4%;
+}
 
   /* Row 6: flex-grow */
   .col-olympic {
