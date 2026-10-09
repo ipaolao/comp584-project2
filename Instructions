@@ -22,6 +22,6 @@ Sixth row
 
     Your choice must be unique from the other rows.
         Some possible examples
-            Make use of other flex properties found on MDNLinks to an external site..
+            Make use of other flex properties found on MDN
             Add more than 4 items per row. (Might have to re-calculate flex basis % values) 
 
