@@ -68,7 +68,8 @@ div img {
 
 .col-olympic h3,
 .col-olympic img {
-  align-self: center;        
+  align-self: center; 
+	text-align: center
 }
 
 /* Tablet Landscape Screen Sizes */
@@ -132,7 +133,7 @@ div img {
    padding-right: 4%;
 }
 
-  /* Row 6: flex-grow */
+  /* Row 6: flex: grow, shrink, basis */
   .col-olympic {
     flex: 2 1 0;
   }
