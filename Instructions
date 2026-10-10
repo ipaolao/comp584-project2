@@ -19,7 +19,7 @@ Fifth row
     Make note of the change in order of the items when window is resized. What property can you use ?
 
 Sixth row 
-
+ I used flex css shorthand properties 
     Your choice must be unique from the other rows.
         Some possible examples
             Make use of other flex properties found on MDN
