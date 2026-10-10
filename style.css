@@ -95,15 +95,10 @@ div img {
   }
 
   .col-olympic {
-    flex: 1 1 92%;
+    flex: 0 0 92%;
   }
   .col-6 {
-    flex: 1 1 28%;
-  }
-
-/* Row 6 spacing */
-  .row-6 {
-    padding-right: 4%;
+    flex: 0 0 28%;
   }
   
 }
@@ -133,6 +128,11 @@ div img {
     order: 0;
   }
 
+	/* Row 6 spacing */
+  .row-6 {
+    padding-right: 4%;
+  }
+	
   /* Row 6: flex: grow, shrink, basis */
   .col-olympic {
     flex: 2 1 0;
